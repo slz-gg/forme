@@ -1,0 +1,24 @@
+{
+  "id": "seanime-translator",
+  "name": "Seanime Translator",
+  "version": "1.0.0",
+  "manifestURI": "",
+  "language": "typescript",
+  "type": "plugin",
+  "description": "An example plugin",
+  "author": "slz-gg",
+  "icon": "",
+  "website": "",
+  "lang": "multi",
+  "payloadURI": "C:\\Users\\usern\\Desktop\\VSCodium\\Seanime\\Seanime Translator\\provider.ts",
+  "plugin": {
+    "version": "1",
+    "permissions": {
+      "scopes": [
+        "anilist",
+        "system"
+      ]
+    }
+  },
+  "isDevelopment": true
+}
