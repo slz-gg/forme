@@ -2,7 +2,7 @@
   "id": "seanime-translator",
   "name": "Seanime Translator",
   "version": "1.0.0",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/slz-gg/forme/main/seanime-translator.json",
   "language": "typescript",
   "type": "plugin",
   "description": "An example plugin",
@@ -10,7 +10,7 @@
   "icon": "",
   "website": "",
   "lang": "multi",
-  "payloadURI": "C:\\Users\\usern\\Desktop\\VSCodium\\Seanime\\Seanime Translator\\provider.ts",
+  "payloadURI": "https://raw.githubusercontent.com/slz-gg/forme/refs/heads/main/provider.ts",
   "plugin": {
     "version": "1",
     "permissions": {
